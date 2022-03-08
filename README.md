@@ -23,8 +23,12 @@
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-
+<h3>📝NOTE -    
+<p>☀️The world is full of opportunities but the place to find one is seldom known. </br>☀️To all people who found this beautiful place called <b>"Github"</b> and took action to view my profile, a heartful thanks and congratulations as you already landed in the place of fortune and opportunities 🔔 </p> 
+</h3>
   
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=RajaKathireshh&show_icons=true&theme=tokyonight"/>
 
  
 
