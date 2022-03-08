@@ -1,19 +1,19 @@
+ <p align="center"><a href="https://twitter.com/intent/follow?screen_name=Raja_Kathireshh"><img width="80%" src="./assests/wall.jpg" /></a></p> 
+
 <h1  align="center"> Hi👋 I'm Raja Kathireshh C 🚀 </h1>
 <h2 align="center"> 😊 Happy and Curious Learner 😄 Living in the intersection of Data Science and Web3.0 🚀 </h2>
 
 
-  <p align="center"> <a href="https://twitter.com/intent/follow?screen_name=Raja_Kathireshh" target="blank"><img src="https://img.shields.io/twitter/follow/Raja_Kathireshh?logo=twitter&style=for-the-badge" alt="Raja_Kathireshh" /></a> </p>  
+ <p align="center"> <a href="https://twitter.com/intent/follow?screen_name=Raja_Kathireshh" target="blank"><img src="https://img.shields.io/twitter/follow/Raja_Kathireshh?logo=twitter&style=for-the-badge" alt="Raja_Kathireshh" /></a> </p>  
 
 <h3 align="left">👇 Connect with me 🤝</h3>
 <p align="left">
 <a href="https://twitter.com/intent/follow?screen_name=Raja_Kathireshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/raja-kathireshh-c-856015159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   
- 
+   
  <h3 align="left">🔨Languages and Tools</h3>
 <p align="left"> 
- 
-
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="43" height="43"/> </a>
 <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/The_C_Programming_Language" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> <a/>
