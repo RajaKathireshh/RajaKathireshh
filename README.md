@@ -1,4 +1,4 @@
- <p align="center"><a href="https://twitter.com/intent/follow?screen_name=Raja_Kathireshh"><img width="80%" src="./assets/wall.jpg" /></a></p> 
+ <p align="center"><a href="https://twitter.com/intent/follow?screen_name=Raja_Kathireshh"><img width="80%" src="./assets/hero.png" /></a></p> 
 
 <h1  align="center"> Hi👋 I'm Raja Kathireshh C 🚀 </h1>
 <h2 align="center"> 😊Happy and Curious Learner😄, Learning in the intersection of Web2.0 and Web3.0🚀</h2>
