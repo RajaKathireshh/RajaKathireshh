@@ -1,7 +1,7 @@
  <p align="center"><a href="https://twitter.com/intent/follow?screen_name=Raja_Kathireshh"><img width="80%" src="./assests/wall.jpg" /></a></p> 
 
 <h1  align="center"> Hi👋 I'm Raja Kathireshh C 🚀 </h1>
-<h2 align="center"> 😊Happy and Curious Learner😄Living in the intersection of Data Science and Web3.0🚀</h2>
+<h2 align="center"> 😊Happy and Curious Learner😄, Learning in the intersection of Web2.0 and Web3.0🚀</h2>
 
 
  <p align="center"> <a href="https://twitter.com/intent/follow?screen_name=Raja_Kathireshh" target="blank"><img src="https://img.shields.io/twitter/follow/Raja_Kathireshh?logo=twitter&style=for-the-badge" alt="Raja_Kathireshh" /></a> </p>  
